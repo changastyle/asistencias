@@ -1,0 +1,1 @@
+<% response.sendRedirect("/asistencias/pages/home/home.jsp");%>
